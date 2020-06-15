@@ -1,0 +1,25 @@
+_repo: Concrete-Construction-for-the-Home-and-the-Farm_62312
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atlas Portland Cement Company
+    alias: Company, Atlas Portland Cement
+    gutenberg_agent_id: '51889'
+    url: http://www.gutenberg.org/2009/agents/51889
+    wikipedia: https://en.wikipedia.org/wiki/Atlas_Portland_Cement_Company
+description: ''
+gutenberg_issued: '2020-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TH'
+- !lcsh 'Farm buildings'
+- !lcsh 'Concrete construction'
+- GITenberg
+title: Concrete Construction for the Home and the Farm
+url: http://www.gutenberg.org/ebooks/62312
